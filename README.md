@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RivRad
+- 👀 I’m interested in Cars and mechanic, Video games and automatising things (like my income)
+- 🌱 I’m currently learning Management at Paris 1 Panthéon Sorbonne Université and Harvard's CS50x and CS50B
+- 📫 How to reach me : you can send me an email at rivetmarcel@orange.fr
